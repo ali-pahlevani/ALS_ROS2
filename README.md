@@ -1,9 +1,11 @@
 # als_ros
 
+---
 ## What is (will be) new?
 - Upgrade from **ROS1** to **ROS2**
 - Add **Kinematic-ICP** to the workspace
 - Comparison with **AMCL**
+---
 
 An Advanced Localization System [1] for Robot Operating System use (als_ros) is a localization package with 2D LiDAR. als_ros contains following functions;
 
