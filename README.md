@@ -20,7 +20,7 @@ These details can be seen at [Reliable Monte Carlo Localization for Mobile Robot
 
 [Demonstration video](https://www.youtube.com/watch?v=wsoXvUgJvWk) showing comparison of als_ros with ROS amcl.
 
-
+ 
 
 # How to install and use
 
